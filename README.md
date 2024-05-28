@@ -1,3 +1,7 @@
+<p align="center"> 
+  <img src="https://cdni.iconscout.com/illustration/premium/thumb/people-looking-at-hotel-review-7248579-5902121.png">
+</p>
+
 # Hotel Reviews Analysis Using NLP
 
 ## Table of Contents
